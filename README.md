@@ -1,10 +1,10 @@
 ## Requirements
 
-    Nuclei installed on your system.
-    Nuclei [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) should be on your system.
-    Wordlists for usernames and passwords:
-    helpers/wordlists/wp-users.txt: A list of potential WordPress usernames.
-    helpers/wordlists/wp-passwords.txt: A list of common passwords.
+- Nuclei installed on your system.
+- Nuclei [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) should be on your system.
+- Wordlists for usernames and passwords:
+- helpers/wordlists/wp-users.txt: A list of potential WordPress usernames.
+- helpers/wordlists/wp-passwords.txt: A list of common passwords.
 
 
 ## Usage
